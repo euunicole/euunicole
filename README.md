@@ -3,8 +3,8 @@ Boas Vindas ao meu perfil 💐
 Meu nome é Nicole
 
 - Estou estudando no [alura](https://www.alura.com.br)
-  Estou desenvolvendo a linguagem JavaScript
-- Uso esse espaço para minha organização e compartilhamento dos meusprojetos desenvolvidos
+- Estou desenvolvendo a linguagem JavaScript
+- Uso esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
   ### você pode entrar em contato comigo 🌻
 
